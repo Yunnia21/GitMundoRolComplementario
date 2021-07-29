@@ -68,7 +68,5 @@
     transition: all 2s;
 }
 .agrandar:hover {
-    height: 80vh;
-    width: 65vh;
+    transform: scale(1.5)
 }
-
